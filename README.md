@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
