@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @ADK-OPT
+👋 Hi, I’m Alex, Performance Analyst for the Ohio Performance Team
 
 <!---
 ADK-OPT/ADK-OPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+### My Time at OPT
+- Have been with OPT since August 2021
+- Worked on 7 school district performance audits
+- Worked on the co-located audit
+- Run automated weekly reports for OPT leadership
+- Earned my Lean Six Sigma Green Belt for work in analyzing five year forecast assumptions
+### Fun Stats
 [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=ADK-OPT&theme=white-green)](https://github.com/ADK-OPT)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADK-OPT&layout=compact&theme=white-green)](https://github.com/ADK-OPT)
