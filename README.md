@@ -13,4 +13,3 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ADK-OPT.ADK-OPT)]
