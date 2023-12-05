@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=900&size=22&duration=3500&pause=200&color=F6F6F6&background=006400&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=77&lines=Welcome+To+Alex's+Github;OPT+Performance+Analyst" alt="Typing SVG" /></a>
+
 ## Welcome!
 👋 Hi, I’m Alex, Performance Analyst for the Ohio Performance Team
 
