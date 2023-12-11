@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3500&pause=200&color=F6F6F6&background=006400&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=77&lines=Welcome+To+Alex's+Github;OPT+Performance+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3500&pause=200&color=F6F6F6&background=006400&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=77&lines=Hi,+I'm+Alex;OPT+Performance+Analyst" alt="Typing SVG" /></a>
 
 
 <!---
