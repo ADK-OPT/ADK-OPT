@@ -25,5 +25,3 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=purple)
 ![]()
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ADK-OPT&repo=GreenBelt)](https://github.com/ADK-OPT/GreenBelt)
