@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 | ------------- |:-------------:| :-----:|
 | [Minford LSD](https://ohioauditor.gov/auditsearch/Reports/2022/Minford_Local_School_District_22_Performance-Scioto_FINAL.pdf)     | CBA's & Salaries | 	04/14/2022 |
 | [Blanchester LSD](https://ohioauditor.gov/auditsearch/Reports/2022/Blanchester_Local_School_District_22_Performance-Clinton_FINAL.pdf)     | CBA's & Salaries      |   05/31/2022 |
-| [Madison LSD](https://ohioauditor.gov/auditsearch/Reports/2022/Madison_Local_School_District_22_Performance-Lake_FINAL.pdf) | Facilites      |    05/26/2022 |
-| [Waterloo LSD](https://ohioauditor.gov/auditsearch/Reports/2022/Waterloo_Local_School_District_22_Performance-Portage_FINAL.pdf) | Facilites      |    05/26/2022 |
+| [Madison LSD](https://ohioauditor.gov/auditsearch/Reports/2022/Madison_Local_School_District_22_Performance-Lake_FINAL.pdf) | Facilities      |    05/26/2022 |
+| [Waterloo LSD](https://ohioauditor.gov/auditsearch/Reports/2022/Waterloo_Local_School_District_22_Performance-Portage_FINAL.pdf) | Facilities      |    05/26/2022 |
 | [Co-Located Higher Ed.](https://ohioauditor.gov/auditsearch/Reports/2022/Co-Located_Institutions_of_Higher_Education_22_Performance-Franklin_FINAL.pdf) | IT Network Services      |    09/22/2022 |
 | [Franklin LSD](https://ohioauditor.gov/auditsearch/Reports/2022/Franklin_City_School_District_22_Performance-Warren_FINAL.pdf) | Food Service, CBA's & Salaries      |    11/10/2022	 |
 | [Union LSD](https://ohioauditor.gov/auditsearch/Reports/2023/Union_Local_School_District_23_Performance_Butler_FINAL.pdf) | Facilites, CBA's & Salaries      |    05/30/2023	 |
