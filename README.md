@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 | [Wynford LSD](https://ohioauditor.gov/auditsearch/Reports/2026/Wynford_Local_School_District_26_Performance_Crawford_FINAL.pdf) | Planning, Budgeting, Insurance, Transportation   |    04/02/2026	|
 
 ## My Github Activity
-[![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=ADK-OPT&theme=white-green)](https://github.com/ADK-OPT)
+[![Alex’s github stats](https://github-readme-activity-graph.vercel.app/graph?username=ADK-OPT&theme=github-compact)](https://github.com/ADK-OPT)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADK-OPT&layout=compact&theme=white-green)](https://github.com/ADK-OPT)
 
