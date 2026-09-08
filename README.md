@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - Have been with OPT since August 2021
 - Worked on 10 school district performance audits
 - Worked on State, Local and Higher Ed. Projects
-- Run automated weekly reports for OPT leadership
+- Run automated weekly workload reports for OPT leadership
 - Earned my Lean Six Sigma Green Belt for work in analyzing five year forecast assumptions
 
 | Project        | Sections           | Release  |
