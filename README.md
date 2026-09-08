@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 ## My Github Activity
 [![Alex’s github stats](https://github-readme-activity-graph.vercel.app/graph?username=ADK-OPT&theme=github-compact)](https://github.com/ADK-OPT)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADK-OPT&layout=compact&theme=white-green)](https://github.com/ADK-OPT)
 
 
