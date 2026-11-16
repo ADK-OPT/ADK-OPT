@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 | [Summit Co. JFS](https://ohioauditor.gov/auditsearch/Reports/2025/Summit_County_Department_of_Job_and_Family_Services_25_Performance_Summit_FINAL.pdf) | Org Structure, Funding & Finances, Staffing, Salaries   |    06/25/2025	|
 | [Univeristy of Akron](https://ohioauditor.gov/auditsearch/Reports/2025/University_of_Akron_25_Performance_Summit_FINAL.pdf) | Facilities Space Utilization   |    12/23/2025	|
 | [Wynford LSD](https://ohioauditor.gov/auditsearch/Reports/2026/Wynford_Local_School_District_26_Performance_Crawford_FINAL.pdf) | Planning, Budgeting, Insurance, Transportation   |    04/02/2026	|
-| [Triway LSD](https://ohioauditor.gov/) | Forecasting, Budgeting, Insurance, Food Service   |    11/26/2026	|
+| [Triway LSD](https://ohioauditor.gov/) | Forecasting, Budgeting, Insurance, Food Service   |    10/04/2026	|
 
 ## My Github Activity
 [![Alex’s github stats](https://github-readme-activity-graph.vercel.app/graph?username=ADK-OPT&theme=github-compact)](https://github.com/ADK-OPT)
